@@ -1,7 +1,7 @@
 <div align="center">
-  <img src=""<img width="2000" height="2000" alt="Pinpointerfinallogo" src="https://github.com/user-attachments/assets/14c066a8-f911-48ba-885c-2f243af3a63f" />
- alt="PinPointer AI Logo" width="250" />
-  
+  <img width="150" height="150" alt="Pinpointerfinallogo" src="https://github.com/user-attachments/assets/ae29e1af-6a19-4ac9-9a2e-f235f9febb9b" />
+
+
   # PinPointer
   
   **A Privacy-First, Offline Search Engine & Intelligent Media Organizer**
