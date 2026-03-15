@@ -4,8 +4,9 @@
 
   # PinPointer
   
-  **A Privacy-First, Offline Search Engine & Intelligent Media Organizer**
+  **A Privacy-First, Offline Search Engine & Intelligent Media Organizer**<br>
   <sub>Maintained by <strong>Northern Blades</strong></sub>
+  
   
   ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
   ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
