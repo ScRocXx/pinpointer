@@ -196,11 +196,23 @@ react-native run-android    # In another terminal
 |Full-Text Search (50K docs)|<100ms|
 |Voice Search Transcription|Real-time|
 
-## 📝 License
-This project is licensed under the MIT License
+## 🛠 Core Contributors & Architecture
 
-## 🤝 Contributing
-### Contributions are welcome! Please follow the contribution guidelines and code of conduct.
+This project was ideated, architected, and engineered from the ground up by the following core developers. The complex logic for the privacy-first, on-device AI search and indexing system is the exclusive intellectual property of this team:
+
+* **Sawant** – Product Design, UI/UX Architecture, Interaction Design, User Experience Strategy
+* **Nishant** – Backend Architecture, On-Device AI Pipeline, ML/OCR Integration
+* **Prem** – Frontend Engineering, React Native Implementation, System Integration
+
+---
+
+## ⚖️ Copyright & Licensing
+
+**© 2026 Northern Blades. All Rights Reserved.**
+
+This project is open-source under the MIT License. 
+
+While the code is available for public viewing and educational purposes, any replication, distribution, or adaptation of this codebase **must** include this original copyright notice and explicitly attribute the original core contributors listed above. Unauthorized use, misrepresentation of authorship, or failure to provide proper attribution is a direct violation of this license.
 
 ---
 <div align="center"> <p> <strong>Built with ❤️ for Privacy-First, Offline-First Android Development</strong> </p> <p> ⭐ If you find this helpful, please star the repository! </p> </div> 
